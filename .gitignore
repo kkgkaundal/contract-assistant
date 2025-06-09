@@ -79,7 +79,6 @@ cache/
 
 # Model and dataset files (optional - depends if you want to commit models)
 model/
-data/
 
 # System files
 .DS_Store

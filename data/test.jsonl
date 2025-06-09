@@ -1,0 +1,14 @@
+{"text": "Set the contract amount to 50,000", "label": "value_update"}
+{"text": "Revise clause 3 to update delivery timeline", "label": "clause_edit"}
+{"text": "Delete section 4 entirely", "label": "section_edit"}
+{"text": "Replace the client name with XYZ Ltd.", "label": "rename_party"}
+{"text": "What does clause 9 say?", "label": "contract_q"}
+{"text": "When should the payment be made?", "label": "general_q"}
+{"text": "Hi, hope you're doing well!", "label": "chat"}
+{"text": "Change the agreement value to 1 crore", "label": "value_update"}
+{"text": "Modify section 2 with new penalties", "label": "clause_edit"}
+{"text": "Can you remove section 8?", "label": "section_edit"}
+{"text": "Update party name from ABC Pvt. Ltd. to DEF Pvt. Ltd.", "label": "rename_party"}
+{"text": "Please explain clause 11", "label": "contract_q"}
+{"text": "What is the latest status of the contract?", "label": "general_q"}
+{"text": "Good afternoon!", "label": "chat"}
