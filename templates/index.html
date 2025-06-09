@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Contract Chat</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <style>
+    body{font-family:system-ui, sans-serif;max-width:640px;margin:0 auto;padding:1rem}
+    #log{border:1px solid #ccc;height:60vh;overflow:auto;padding:.5rem;margin-bottom:.5rem}
+    .user{color:#1a73e8;font-weight:600}
+    .bot{color:#0b8043}
+  </style>
+</head>
+<body>
+  <h1>📄 Contract Assistant</h1>
+  <div id="log"></div>
+  <form id="form">
+    <input id="input" type="text" autocomplete="off" placeholder="Type…" style="width:80%" />
+    <button>Send</button>
+  </form>
+  <script src="/static/script.js"></script>
+</body>
+</html>

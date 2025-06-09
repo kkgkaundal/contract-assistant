@@ -1,0 +1,14 @@
+fastapi>=0.111
+uvicorn[standard]>=0.30
+jinja2
+python-multipart
+transformers==4.42.0
+torch>=2.1.0
+sentencepiece
+datasets
+scikit-learn
+cleanlab
+evaluate
+protobuf
+transformers[torch]
+accelerate
