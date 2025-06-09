@@ -1,6 +1,6 @@
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
-from .config import LABELS, MODEL_PATH, CONF_THRESHOLD
+from app.config import MODEL_PATH, CONF_THRESHOLD
 
 _tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
 _model = AutoModelForSequenceClassification.from_pretrained(MODEL_PATH)
@@ -18,3 +18,9 @@ def classify(text: str) -> tuple[str, float]:
     if conf < CONF_THRESHOLD:
         intent = "fallback"
     return intent, conf
+
+# Example usage
+if __name__ == "__main__":
+    test_text = "Please update clause 3 to reflect the new policy"
+    intent, confidence = classify(test_text)
+    print(f"Predicted Intent: {intent} ({confidence:.2f})")

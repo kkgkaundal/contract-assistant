@@ -16,6 +16,7 @@ async def home(request: Request):
 
 @app.websocket("/ws")
 async def websocket_endpoint(ws: WebSocket):
+    print("Here")
     await ws.accept()
     while True:
         try:
@@ -23,6 +24,8 @@ async def websocket_endpoint(ws: WebSocket):
         except Exception:
             break
         intent, conf = classify(data)
+        print("Intent", intent)
+        print("conf", conf)
         payload = route(intent, data)
         payload.update({"intent": intent, "confidence": conf})
         await ws.send_json(payload)

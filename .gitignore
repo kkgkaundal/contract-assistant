@@ -81,9 +81,6 @@ cache/
 model/
 data/
 
-# Static files (optional if generated)
-static/
-
 # System files
 .DS_Store
 Thumbs.db

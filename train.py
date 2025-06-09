@@ -1,68 +1,70 @@
-from datasets import load_dataset
+from datasets import load_dataset, ClassLabel
 from transformers import (AutoTokenizer, AutoModelForSequenceClassification,
                           Trainer, TrainingArguments)
-import evaluate, numpy as np, os, json
+import evaluate, numpy as np, os
+from app.config import LABELS, MODEL_PATH
 
 MODEL_NAME = "microsoft/deberta-v3-base"
-LABELS = [
-    "value_update", "clause_edit", "section_edit",
-    "rename_party", "contract_q", "general_q", "chat"
-]
-
-# ---------------------------------------------------------------------
-# 1. Load your data – expects ./data/train.jsonl & test.jsonl
-#    [{"text": "Set amount to 5L", "label": "value_update"}, ...]
-# ---------------------------------------------------------------------
 
 def load_data():
     if not os.path.exists("data/train.jsonl"):
-        raise SystemExit("✖  Put your labelled JSONL into ./data first » train.jsonl + test.jsonl")
+        raise SystemExit("✖ Missing data/train.jsonl and test.jsonl")
+
     ds = load_dataset("json", data_files={
         "train": "data/train.jsonl",
-        "test": "data/test.jsonl"
+        "test":  "data/test.jsonl"
     })
-    tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
-    ds = ds.class_encode_column("label")
 
-    def tok(batch):
-        return tokenizer(batch["text"], truncation=True)
+    ds = ds.cast_column("label", ClassLabel(names=LABELS))
+    tok = AutoTokenizer.from_pretrained(MODEL_NAME)
 
-    return ds.map(tok, batched=True), tokenizer
-
-# ---------------------------------------------------------------------
+    def tokenize(batch):
+        return tok(batch["text"], truncation=True, max_length=128)
+    ds = ds.map(tokenize, batched=True)
+    return ds, tok
 
 def main():
     ds, tok = load_data()
+
     model = AutoModelForSequenceClassification.from_pretrained(
-        MODEL_NAME, num_labels=len(LABELS))
+        MODEL_NAME,
+        num_labels=len(LABELS),
+        id2label={i:l for i,l in enumerate(LABELS)},
+        label2id={l:i for i,l in enumerate(LABELS)}
+    )
 
-    metric = evaluate.load("f1")
-
-    def compute_metrics(eval_pred):
-        logits, labels = eval_pred
-        preds = np.argmax(logits, axis=-1)
-        return metric.compute(predictions=preds, references=labels, average="micro")
+    f1 = evaluate.load("f1")
+    def metrics(p):
+        preds = np.argmax(p.predictions, axis=-1)
+        return f1.compute(predictions=preds, references=p.label_ids,
+                          average="micro")
 
     args = TrainingArguments(
         output_dir="checkpoints",
+        save_strategy="no",               # ← key change
+        evaluation_strategy="epoch",
+        num_train_epochs=5,
         learning_rate=2e-5,
-        num_train_epochs=4,
         per_device_train_batch_size=16,
         per_device_eval_batch_size=32,
-        evaluation_strategy="epoch",
-        save_strategy="epoch",
         weight_decay=0.01,
-        load_best_model_at_end=True,
-        metric_for_best_model="f1"
+        fp16=True,                        # use mixed-precision
+        logging_dir="./logs",
+        report_to="none"
     )
 
-    Trainer(model=model, args=args, train_dataset=ds["train"],
-            eval_dataset=ds["test"], tokenizer=tok,
-            compute_metrics=compute_metrics).train()
+    trainer = Trainer(model=model, args=args,
+                      train_dataset=ds["train"],
+                      eval_dataset=ds["test"],
+                      tokenizer=tok,
+                      compute_metrics=metrics)
 
-    model.save_pretrained("model")
-    tok.save_pretrained("model")
-    print("✓ model saved → ./model/")
+    trainer.train()
+
+    # single final save
+    trainer.save_model(MODEL_PATH)
+    tok.save_pretrained(MODEL_PATH)
+    print("✓ Model saved at", MODEL_PATH)
 
 if __name__ == "__main__":
     main()
