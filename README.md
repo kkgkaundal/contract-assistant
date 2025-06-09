@@ -13,3 +13,5 @@ python train.py
 
 # 3. run server
 uvicorn app.main:app --reload
+
+python3 -m uvicorn app.main:app --reload

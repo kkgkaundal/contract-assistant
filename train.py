@@ -19,7 +19,7 @@ def load_data():
     tok = AutoTokenizer.from_pretrained(MODEL_NAME)
 
     def tokenize(batch):
-        return tok(batch["text"], truncation=True, max_length=128)
+        return tok(batch["text"], truncation=True, max_length=5000)
     ds = ds.map(tokenize, batched=True)
     return ds, tok
 

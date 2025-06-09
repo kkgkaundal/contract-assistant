@@ -1,126 +1,273 @@
-{"text": "Change the payment amount to 10,000", "label": "value_update"}
-{"text": "Update clause 4 to include the new delivery terms", "label": "clause_edit"}
-{"text": "Please remove section 3 from the contract", "label": "section_edit"}
-{"text": "Rename the party from John Doe to Jane Doe", "label": "rename_party"}
-{"text": "What does clause 7 mean?", "label": "contract_q"}
-{"text": "When is the due date for payment?", "label": "general_q"}
-{"text": "Hello, how are you today?", "label": "chat"}
-{"text": "Increase the contract value to 15 lakhs", "label": "value_update"}
-{"text": "Add confidentiality clause in section 5", "label": "clause_edit"}
-{"text": "Can you change the name of the vendor?", "label": "rename_party"}
-{"text": "Explain clause 10 to me", "label": "contract_q"}
-{"text": "What is the status of the project?", "label": "general_q"}
+{"text": "Set the contract amount to 50,000", "label": "value_update"}
+{"text": "Revise clause 3 to update delivery timeline", "label": "clause_edit"}
+{"text": "Delete section 4 entirely", "label": "section_edit"}
+{"text": "Replace the client name with XYZ Ltd.", "label": "rename_party"}
+{"text": "What does clause 9 say?", "label": "contract_q"}
+{"text": "When should the payment be made?", "label": "general_q"}
+{"text": "Hi, hope you're doing well!", "label": "chat"}
+{"text": "Change the agreement value to 1 crore", "label": "value_update"}
+{"text": "Modify section 2 with new penalties", "label": "clause_edit"}
+{"text": "Can you remove section 8?", "label": "section_edit"}
+{"text": "Update party name from ABC Pvt. Ltd. to DEF Pvt. Ltd.", "label": "rename_party"}
+{"text": "Please explain clause 11", "label": "contract_q"}
+{"text": "What is the latest status of the contract?", "label": "general_q"}
+{"text": "Good afternoon!", "label": "chat"}
+{"text": "Change the contract amount to 25,000 USD", "label": "value_update"}
+{"text": "Update clause 3 to include new payment terms", "label": "clause_edit"}
+{"text": "Delete section 4 from the agreement", "label": "section_edit"}
+{"text": "Rename the client from ABC Inc to XYZ Corp", "label": "rename_party"}
+{"text": "What does clause 9 cover?", "label": "contract_q"}
+{"text": "What is the project completion date?", "label": "general_q"}
+{"text": "Hi, how’s it going today?", "label": "chat"}
+{"text": "Set payment to 1.5 lakh INR", "label": "value_update"}
+{"text": "Modify clause 7 to add warranty details", "label": "clause_edit"}
+{"text": "Remove section 9 from the contract", "label": "section_edit"}
+{"text": "Change party name to Horizon Ltd", "label": "rename_party"}
+{"text": "Explain the indemnity clause in section 5", "label": "contract_q"}
+{"text": "When is the contract signing scheduled?", "label": "general_q"}
+{"text": "Yo, what’s good?", "label": "chat"}
+{"text": "Adjust payment terms to net 30 days", "label": "value_update"}
+{"text": "Revise clause 12 to include termination conditions", "label": "clause_edit"}
+{"text": "Omit section 2 from the draft", "label": "section_edit"}
+{"text": "Update supplier name to Delta Enterprises", "label": "rename_party"}
+{"text": "What’s the meaning of clause 4?", "label": "contract_q"}
+{"text": "What’s the deadline for the first milestone?", "label": "general_q"}
+{"text": "Hey there, friend!", "label": "chat"}
+{"text": "Increase contract value to 2 million", "label": "value_update"}
+{"text": "Add dispute resolution to clause 8", "label": "clause_edit"}
+{"text": "Delete the liability section", "label": "section_edit"}
+{"text": "Rename contractor to BlueWave Corp", "label": "rename_party"}
+{"text": "Can you clarify clause 10?", "label": "contract_q"}
+{"text": "When does the agreement expire?", "label": "general_q"}
+{"text": "Good afternoon!", "label": "chat"}
+{"text": "Reduce payment to 12,000", "label": "value_update"}
+{"text": "Update clause 6 with new compliance rules", "label": "clause_edit"}
+{"text": "Remove section 11 from the document", "label": "section_edit"}
+{"text": "Change buyer name to Apex Solutions", "label": "rename_party"}
+{"text": "What does clause 15 specify?", "label": "contract_q"}
+{"text": "What’s the status of the contract?", "label": "general_q"}
+{"text": "Yo, how’s it hanging?", "label": "chat"}
+{"text": "Set contract amount to 75,000 INR", "label": "value_update"}
+{"text": "Edit clause 2 to reflect new deadlines", "label": "clause_edit"}
+{"text": "Scrap section 5 entirely", "label": "section_edit"}
+{"text": "Update party name to Omega Tech", "label": "rename_party"}
+{"text": "Summarize clause 7 for me", "label": "contract_q"}
+{"text": "When is the final payment due?", "label": "general_q"}
 {"text": "Hey, what’s up?", "label": "chat"}
-{"text": "Set the contract price to 20,000", "label": "value_update"}
-{"text": "Modify clause 2 with updated payment terms", "label": "clause_edit"}
-{"text": "Delete section 6 from the document", "label": "section_edit"}
-{"text": "Change the party name to Acme Corp", "label": "rename_party"}
+{"text": "Change total value to 5 crores", "label": "value_update"}
+{"text": "Add penalty clause to section 4", "label": "clause_edit"}
+{"text": "Delete confidentiality section", "label": "section_edit"}
+{"text": "Rename vendor to Skyline Ltd", "label": "rename_party"}
+{"text": "What’s in clause 3?", "label": "contract_q"}
+{"text": "What’s the project timeline?", "label": "general_q"}
+{"text": "Hello, good to see you!", "label": "chat"}
+{"text": "Adjust amount to 9,000 USD", "label": "value_update"}
+{"text": "Revise clause 5 to include delivery terms", "label": "clause_edit"}
+{"text": "Remove section 8 from the contract", "label": "section_edit"}
+{"text": "Change client to NovaCorp", "label": "rename_party"}
+{"text": "Explain clause 13 in detail", "label": "contract_q"}
+{"text": "When is the next project review?", "label": "general_q"}
+{"text": "Hi, how’s your day?", "label": "chat"}
+{"text": "Set payment cap to 3 lakh", "label": "value_update"}
+{"text": "Update clause 10 with new terms", "label": "clause_edit"}
+{"text": "Omit section 6 from agreement", "label": "section_edit"}
+{"text": "Rename supplier to Zenith Ltd", "label": "rename_party"}
+{"text": "What does clause 11 mean?", "label": "contract_q"}
+{"text": "What’s the contract start date?", "label": "general_q"}
+{"text": "Yo, what’s new with you?", "label": "chat"}
+{"text": "Increase amount to 80,000", "label":"value_update"}
+{"text": "Modify clause 4 to add insurance", "label": "clause_edit"}
+{"text": "Delete section 12 entirely", "label": "section_edit"}
+{"text": "Change party name to Vertex Inc", "label": "rename_party"}
 {"text": "Can you explain clause 8?", "label": "contract_q"}
-{"text": "When is the deadline for submission?", "label": "general_q"}
-{"text": "Good morning!", "label": "chat"}
-{"text": "Make the amount 7,500 instead of 5,000", "label": "value_update"}
-{"text": "Update the penalty clause in section 12", "label": "clause_edit"}
-{"text": "Remove the confidentiality section", "label": "section_edit"}
-{"text": "Change supplier name to XYZ Ltd.", "label": "rename_party"}
-{"text": "What is clause 5 about?", "label": "contract_q"}
-{"text": "What’s the start date for this agreement?", "label": "general_q"}
+{"text": "When is the report due?", "label": "general_q"}
+{"text": "Hey, good morning!", "label": "chat"}
+{"text": "Reduce contract value to 15,000", "label": "value_update"}
+{"text": "Add termination clause to section 7", "label": "clause_edit"}
+{"text": "Remove section 3 from draft", "label": "section_edit"}
+{"text": "Update client name to Prism Ltd", "label": "rename_party"}
+{"text": "What’s the purpose of clause 6?", "label": "contract_q"}
+{"text": "What’s the payment schedule?", "label": "general_q"}
+{"text": "Hi there!", "label": "chat"}
+{"text": "Set amount to 2.2 lakh INR", "label": "value_update"}
+{"text": "Edit clause 9 to include penalties", "label": "clause_edit"}
+{"text": "Delete section 10 from agreement", "label": "section_edit"}
+{"text": "Rename contractor to Elite Solutions", "label": "rename_party"}
+{"text": "Describe clause 12", "label": "contract_q"}
+{"text": "When does the project end?", "label": "general_q"}
+{"text": "Yo, how’s it going?", "label": "chat"}
+{"text": "Change payment to 4 installments", "label": "value_update"}
+{"text": "Update clause 3 with new conditions", "label": "clause_edit"}
+{"text": "Omit section 7 from the contract", "label": "section_edit"}
+{"text": "Change supplier to Quantum Corp", "label": "rename_party"}
+{"text": "What’s clause 5 about?", "label": "contract_q"}
+{"text": "What’s the deadline for submission?", "label": "general_q"}
+{"text": "Hey, what’s good?", "label": "chat"}
+{"text": "Increase contract to 7 crores", "label": "value_update"}
+{"text": "Add warranty to clause 11", "label": "clause_edit"}
+{"text": "Remove section 4 entirely", "label": "section_edit"}
+{"text": "Rename buyer to Synergy Ltd", "label": "rename_party"}
+{"text": "Can you summarize clause 14?", "label": "contract_q"}
+{"text": "When is the contract review?", "label": "general_q"}
+{"text": "Hello, friend!", "label": "chat"}
+{"text": "Set payment terms to net 60 days", "label": "value_update"}
+{"text": "Revise clause 8 for compliance", "label": "clause_edit"}
+{"text": "Delete section 5 from document", "label": "section_edit"}
+{"text": "Update party to CoreTech", "label": "rename_party"}
+{"text": "Explain the scope of clause 7", "label": "contract_q"}
+{"text": "What’s the project start date?", "label": "general_q"}
+{"text": "Hi, how’s it going?", "label": "chat"}
+{"text": "Adjust amount to 1.8 lakh", "label": "value_update"}
+{"text": "Modify clause 6 to add penalties", "label": "clause_edit"}
+{"text": "Scrap section 9 from agreement", "label": "section_edit"}
+{"text": "Change vendor to Pinnacle Ltd", "label": "rename_party"}
+{"text": "What does clause 10 cover?", "label": "contract_q"}
+{"text": "When is the final deadline?", "label": "general_q"}
+{"text": "Yo, what’s up?", "label": "chat"}
+{"text": "Set contract value to 90,000", "label": "value_update"}
+{"text": "Update clause 4 with new terms", "label": "clause_edit"}
+{"text": "Remove section 6 from draft", "label": "section_edit"}
+{"text": "Rename client to Apex Corp", "label": "rename_party"}
+{"text": "What’s in clause 9?", "label": "contract_q"}
+{"text": "What’s the payment due date?", "label": "general_q"}
 {"text": "Hey there!", "label": "chat"}
-{"text": "Increase payment cap to 50,000", "label": "value_update"}
-{"text": "Revise clause 9 to match legal standards", "label": "clause_edit"}
-{"text": "Delete section 8 from the agreement", "label": "section_edit"}
-{"text": "Replace contractor name with DEF Corp", "label": "rename_party"}
-{"text": "Explain the termination clause", "label": "contract_q"}
-{"text": "What’s the payment timeline?", "label": "general_q"}
-{"text": "Hi, buddy!", "label": "chat"}
-{"text": "Adjust total value to 25,000 INR", "label": "value_update"}
-{"text": "Edit clause 11 to reflect updated duration", "label": "clause_edit"}
-{"text": "Remove section labeled 'Miscellaneous'", "label": "section_edit"}
-{"text": "Swap client name to Beta Tech", "label": "rename_party"}
-{"text": "Give details about clause 14", "label": "contract_q"}
-{"text": "What’s the delivery deadline?", "label": "general_q"}
-{"text": "Yo!", "label": "chat"}
-{"text": "Update contract value to 3 crores", "label": "value_update"}
-{"text": "Fix clause 6 per new compliance", "label": "clause_edit"}
-{"text": "Delete entire Section 7", "label": "section_edit"}
-{"text": "Rename party from ABC to DEF", "label": "rename_party"}
-{"text": "Can you summarize clause 13?", "label": "contract_q"}
-{"text": "When does the project start?", "label": "general_q"}
-{"text": "What's going on?", "label": "chat"}
-{"text": "Make payment amount exactly 12,000", "label": "value_update"}
-{"text": "Fix clause on payment delays", "label": "clause_edit"}
-{"text": "Remove optional section at end", "label": "section_edit"}
-{"text": "Use new name: Acme Pvt Ltd", "label": "rename_party"}
-{"text": "What does the liability clause mean?", "label": "contract_q"}
-{"text": "Is there a submission deadline?", "label": "general_q"}
-{"text": "Hello!", "label": "chat"}
-{"text": "Raise contract value to 1 million", "label": "value_update"}
-{"text": "Update dispute resolution clause", "label": "clause_edit"}
-{"text": "Remove terms listed under section 10", "label": "section_edit"}
-{"text": "Set client name to QuickTech", "label": "rename_party"}
-{"text": "Describe clause 15", "label": "contract_q"}
-{"text": "What is the termination date?", "label": "general_q"}
-{"text": "How’s it going?", "label": "chat"}
-{"text": "Reduce amount to 8,000", "label": "value_update"}
-{"text": "Change warranty clause to 2 years", "label": "clause_edit"}
-{"text": "Delete all conditions in section 2", "label": "section_edit"}
-{"text": "Update entity name to AlphaSoft", "label": "rename_party"}
-{"text": "What’s written in clause 9?", "label": "contract_q"}
-{"text": "Any updates on the project?", "label": "general_q"}
-{"text": "Yo, assistant!", "label": "chat"}
-{"text": "Change the contract amount to 5 lakhs", "label": "value_update"}
-{"text": "Update the delivery date in clause 6", "label": "clause_edit"}
-{"text": "Remove section 3 of the agreement", "label": "section_edit"}
-{"text": "Rename the supplier from ABC Corp to XYZ Ltd", "label": "rename_party"}
-{"text": "Explain what clause 8 is about", "label": "contract_q"}
-{"text": "When is the next review meeting?", "label": "general_q"}
-{"text": "Hey, how's it going?", "label": "chat"}
-{"text": "Set payment terms to net 45 days", "label": "value_update"}
-{"text": "Modify clause 5 to add warranty", "label": "clause_edit"}
-{"text": "Delete termination section", "label": "section_edit"}
-{"text": "Update client name from John to Johnson", "label": "rename_party"}
-{"text": "What is mentioned in clause 2?", "label": "contract_q"}
-{"text": "Can you tell me the due date?", "label": "general_q"}
-{"text": "Hello there!", "label": "chat"}
-{"text": "Increase contract limit to 10 crores", "label": "value_update"}
-{"text": "Edit clause 9 to include penalty clause", "label": "clause_edit"}
-{"text": "Remove the confidentiality section", "label": "section_edit"}
-{"text": "Change buyer name to Acme Corp", "label": "rename_party"}
-{"text": "Can you help me understand clause 12?", "label": "contract_q"}
-{"text": "What's the payment deadline?", "label": "general_q"}
-{"text": "Yo, what's new?", "label": "chat"}
-{"text": "Adjust the pricing to 2.5 lakh", "label": "value_update"}
-{"text": "Fix clause 3 to include delivery conditions", "label": "clause_edit"}
-{"text": "Delete section 5 from the draft", "label": "section_edit"}
-{"text": "Update party name to Global Ltd", "label": "rename_party"}
-{"text": "What does clause 1 say?", "label": "contract_q"}
-{"text": "When is this agreement valid till?", "label": "general_q"}
-{"text": "Hi, buddy!", "label": "chat"}
-{"text": "Make the payment 3 installments", "label": "value_update"}
-{"text": "Add late fee to clause 7", "label": "clause_edit"}
-{"text": "Omit section 10 from the agreement", "label": "section_edit"}
-{"text": "Change lessee name in contract", "label": "rename_party"}
-{"text": "Explain clause 6 clearly", "label": "contract_q"}
-{"text": "What’s the signing date?", "label": "general_q"}
-{"text": "Hey bro", "label": "chat"}
-{"text": "Set milestone amount to 1 lakh", "label": "value_update"}
-{"text": "Include confidentiality in clause 8", "label": "clause_edit"}
-{"text": "Scrap section 6", "label": "section_edit"}
-{"text": "Modify owner name to Rakesh Sharma", "label": "rename_party"}
-{"text": "Can you decode clause 11?", "label": "contract_q"}
-{"text": "When do we need to submit?", "label": "general_q"}
-{"text": "Hi!", "label": "chat"}
-{"text": "Revise payment clause to 60 days", "label": "value_update"}
-{"text": "Add new terms to clause 2", "label": "clause_edit"}
-{"text": "Remove the arbitration section", "label": "section_edit"}
-{"text": "Change party B to Rahul Pvt Ltd", "label": "rename_party"}
-{"text": "What is the scope in clause 5?", "label": "contract_q"}
-{"text": "When should the report be delivered?", "label": "general_q"}
-{"text": "Hello friend", "label": "chat"}
-{"text": "Make contract value 99,000", "label": "value_update"}
-{"text": "Append insurance terms in clause 10", "label": "clause_edit"}
-{"text": "Omit section 7", "label": "section_edit"}
-{"text": "Update company name to Nexus Ventures", "label": "rename_party"}
-{"text": "Explain the meaning of clause 3", "label": "contract_q"}
-{"text": "What’s the project duration?", "label": "general_q"}
-{"text": "Hi GPT!", "label": "chat"}
-
+{"text": "Increase amount to 3.5 lakh", "label": "value_update"}
+{"text": "Add delivery terms to clause 5", "label": "clause_edit"}
+{"text": "Delete section 8 from contract", "label": "section_edit"}
+{"text": "Change supplier to Nova Ltd", "label": "rename_party"}
+{"text": "Explain clause 11 in detail", "label": "contract_q"}
+{"text": "When is the next milestone?", "label": "general_q"}
+{"text": "Hi, good to see you!", "label": "chat"}
+{"text": "Amend the budget to 50,000 EUR", "label": "value_update"}
+{"text": "Revise clause 16 to include non-compete terms", "label": "clause_edit"}
+{"text": "Eliminate section 14 from the final draft", "label": "section_edit"}
+{"text": "Switch the tenant name to Pinnacle Properties", "label": "rename_party"}
+{"text": "What are the conditions in clause 19?", "label": "contract_q"}
+{"text": "What’s the expected completion date for phase one?", "label": "general_q"}
+{"text": "Hey, hope you’re doing great!", "label": "chat"}
+{"text": "Raise the funding limit to 2.5 million GBP", "label": "value_update"}
+{"text": "Incorporate arbitration terms into clause 22", "label": "clause_edit"}
+{"text": "Strike out section 17 from the agreement", "label": "section_edit"}
+{"text": "Update the partner name to Crescent Solutions", "label": "rename_party"}
+{"text": "Can you break down clause 21 for me?", "label": "contract_q"}
+{"text": "When will the contract be finalized?", "label": "general_q"}
+{"text": "What’s good, my friend?", "label": "chat"}
+{"text": "Modify the fee structure to 3 installments", "label": "value_update"}
+{"text": "Add a liability cap to clause 18", "label": "clause_edit"}
+{"text": "Remove the indemnity section entirely", "label": "section_edit"}
+{"text": "Change the licensee to Vortex Dynamics", "label": "rename_party"}
+{"text": "What’s the intent behind clause 20?", "label": "contract_q"}
+{"text": "What’s the timeline for the deliverables?", "label": "general_q"}
+{"text": "Yo, how’s your day going?", "label": "chat"}
+{"text": "Set the retainer to 75,000 USD monthly", "label": "value_update"}
+{"text": "Update clause 23 with new tax provisions", "label": "clause_edit"}
+{"text": "Delete section 15 from the contract", "label": "section_edit"}
+{"text": "Rename the investor to Aurora Ventures", "label": "rename_party"}
+{"text": "Could you explain clause 24 in simple terms?", "label": "contract_q"}
+{"text": "When is the next progress report due?", "label": "general_q"}
+{"text": "Hi, just checking in!", "label": "chat"}
+{"text": "Adjust the cost to 1.2 crore INR", "label": "value_update"}
+{"text": "Insert a renewal option in clause 25", "label": "clause_edit"}
+{"text": "Omit section 13 from the document", "label": "section_edit"}
+{"text": "Revise the agent name to Stellar Group", "label": "rename_party"}
+{"text": "What does clause 26 address?", "label": "contract_q"}
+{"text": "What’s the approval process for changes?", "label": "general_q"}
+{"text": "Good evening, pal!", "label": "chat"}
+{"text": "Increase the allocation to 300,000 AUD", "label": "value_update"}
+{"text": "Modify clause 27 to clarify ownership rights", "label": "clause_edit"}
+{"text": "Cut section 16 from the terms", "label": "section_edit"}
+{"text": "Update the distributor to Zenith Partners", "label": "rename_party"}
+{"text": "Can you summarize clause 28?", "label": "contract_q"}
+{"text": "How long is the contract valid?", "label": "general_q"}
+{"text": "Hey, what’s the vibe today?", "label": "chat"}
+{"text": "Reduce the estimate to 40,000 CAD", "label": "value_update"}
+{"text": "Add a compliance clause to section 29", "label": "clause_edit"}
+{"text": "Remove section 18 from the final version", "label": "section_edit"}
+{"text": "Change the recipient to Nova Enterprises", "label": "rename_party"}
+{"text": "What’s covered in clause 30?", "label": "contract_q"}
+{"text": "What’s the budget allocation for Q2?", "label": "general_q"}
+{"text": "Yo, good to see you!", "label": "chat"}
+{"text": "Set the grant amount to 600,000 SGD", "label": "value_update"}
+{"text": "Revise clause 31 to include audit rights", "label": "clause_edit"}
+{"text": "Delete section 19 from the agreement", "label": "section_edit"}
+{"text": "Rename the grantee to Horizon Innovations", "label": "rename_party"}
+{"text": "What are the details of clause 32?", "label": "contract_q"}
+{"text": "When is the kickoff meeting scheduled?", "label": "general_q"}
+{"text": "Hi, how’s it rolling?", "label": "chat"}
+{"text": "Change the payout to 4.5 lakh INR", "label": "value_update"}
+{"text": "Incorporate a penalty clause in section 33", "label": "clause_edit"}
+{"text": "Eliminate section 20 from the draft", "label": "section_edit"}
+{"text": "Update the trustee to Apex Holdings", "label": "rename_party"}
+{"text": "Can you clarify the terms in clause 34?", "label": "contract_q"}
+{"text": "What’s the scope of the project?", "label": "general_q"}
+{"text": "Hey, what’s cooking?", "label": "chat"}
+{"text": "Amend the total to 800,000 JPY", "label": "value_update"}
+{"text": "Add an escalation clause to section 35", "label": "clause_edit"}
+{"text": "Strike section 21 from the contract", "label": "section_edit"}
+{"text": "Change the payee to Quantum Systems", "label": "rename_party"}
+{"text": "What’s the purpose of clause 36?", "label": "contract_q"}
+{"text": "What’s the penalty for late delivery?", "label": "general_q"}
+{"text": "Yo, how’s it hangin’?", "label": "chat"}
+{"text": "Increase the cap to 1 million CHF", "label": "value_update"}
+{"text": "Update clause 37 with confidentiality terms", "label": "clause_edit"}
+{"text": "Remove section 22 from the terms", "label": "section_edit"}
+{"text": "Rename the sponsor to Prism Capital", "label": "rename_party"}
+{"text": "Explain the scope of clause 38", "label": "contract_q"}
+{"text": "When is the audit scheduled?", "label": "general_q"}
+{"text": "Hi, what’s up?", "label": "chat"}
+{"text": "Set the subscription fee to 25,000 NZD", "label": "value_update"}
+{"text": "Revise clause 39 to include force majeure", "label": "clause_edit"}
+{"text": "Delete section 23 from the agreement", "label": "section_edit"}
+{"text": "Change the operator to Synergy Group", "label": "rename_party"}
+{"text": "What does clause 40 specify?", "label": "contract_q"}
+{"text": "What’s the payment structure?", "label": "general_q"}
+{"text": "Hey, good morning!", "label": "chat"}
+{"text": "Adjust the funding to 3 million KRW", "label": "value_update"}
+{"text": "Add a termination clause to section 41", "label": "clause_edit"}
+{"text": "Omit section 24 from the document", "label": "section_edit"}
+{"text": "Update the consultant to Vertex Advisors", "label": "rename_party"}
+{"text": "Can you describe clause 42?", "label": "contract_q"}
+{"text": "What’s the deadline for phase two?", "label": "general_q"}
+{"text": "Yo, what’s the deal?", "label": "chat"}
+{"text": "Change the deposit to 10,000 BRL", "label": "value_update"}
+{"text": "Incorporate a warranty clause in section 43", "label": "clause_edit"}
+{"text": "Remove section 25 from the contract", "label": "section_edit"}
+{"text": "Rename the developer to Core Innovations", "label": "rename_party"}
+{"text": "What’s the focus of clause 44?", "label": "contract_q"}
+{"text": "When is the contract renewal date?", "label": "general_q"}
+{"text": "Hi, how’s your week going?", "label": "chat"}
+{"text": "Set the milestone payment to 200,000 MXN", "label": "value_update"}
+{"text": "Update clause 45 with new deadlines", "label": "clause_edit"}
+{"text": "Strike out section 26 from the draft", "label": "section_edit"}
+{"text": "Change the assignee to Nebula Corp", "label": "rename_party"}
+{"text": "What are the terms in clause 46?", "label": "contract_q"}
+{"text": "What’s the resource allocation plan?", "label": "general_q"}
+{"text": "Hey, what’s new with you?", "label": "chat"}
+{"text": "Increase the allowance to 1.5 million RUB", "label": "value_update"}
+{"text": "Add a dispute clause to section 47", "label": "clause_edit"}
+{"text": "Delete section 27 from the agreement", "label": "section_edit"}
+{"text": "Update the beneficiary to Orion Partners", "label": "rename_party"}
+{"text": "Can you outline clause 48?", "label": "contract_q"}
+{"text": "What’s the contract’s effective date?", "label": "general_q"}
+{"text": "Yo, good to catch up!", "label": "chat"}
+{"text": "Reduce the cost to 30,000 ZAR", "label": "value_update"}
+{"text": "Revise clause 49 to include IP rights", "label": "clause_edit"}
+{"text": "Remove section 28 from the terms", "label": "section_edit"}
+{"text": "Rename the coordinator to Alpha Systems", "label": "rename_party"}
+{"text": "What’s clause 50 about?", "label": "contract_q"}
+{"text": "What’s the escalation process?", "label": "general_q"}
+{"text": "Hi, what’s the mood today?", "label": "chat"}
+{"text": "Set the compensation to 400,000 THB", "label": "value_update"}
+{"text": "Incorporate a review clause in section 51", "label": "clause_edit"}
+{"text": "Omit section 29 from the contract", "label": "section_edit"}
+{"text": "Change the manager to Eclipse Ltd", "label": "rename_party"}
+{"text": "Explain the details of clause 52", "label": "contract_q"}
+{"text": "When is the final review planned?", "label": "general_q"}
+{"text": "Hey, how’s it going?", "label": "chat"}
+{"text": "Amend the price to 2 million IDR", "label": "value_update"}
+{"text": "Add a performance clause to section 53", "label": "clause_edit"}
+{"text": "Delete section 30 from the draft", "label": "section_edit"}
+{"text": "Update the executor to Paragon Group", "label": "rename_party"}
+{"text": "What’s the scope of clause 54?", "label": "contract_q"}
+{"text": "What’s the project’s funding status?", "label": "general_q"}
+{"text": "Yo, what’s up, buddy?", "label": "chat"}

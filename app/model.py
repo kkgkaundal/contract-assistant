@@ -12,8 +12,11 @@ def classify(text: str) -> tuple[str, float]:
     logits = _model(**inputs).logits
     probs = torch.softmax(logits, dim=-1).squeeze()
     conf_tensor, idx = probs.max(0)
-    intent = _model.config.id2label[idx.item()]  # ✅ FIXED
+    intent = _model.config.id2label[idx.item()]
     conf: float = float(conf_tensor)
+
+    print(f"Probs: {probs}")
+    print(f"Predicted intent: {intent} with confidence {conf}")
 
     if conf < CONF_THRESHOLD:
         intent = "fallback"
