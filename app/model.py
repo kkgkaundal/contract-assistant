@@ -18,6 +18,6 @@ def classify(text: str) -> tuple[str, float]:
     print(f"Probs: {probs}")
     print(f"Predicted intent: {intent} with confidence {conf}")
 
-    if conf < CONF_THRESHOLD:
-        intent = "fallback"
+    # if conf < CONF_THRESHOLD:
+    #     intent = "fallback"
     return intent, conf
