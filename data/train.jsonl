@@ -271,3 +271,403 @@
 {"text": "What’s the scope of clause 54?", "label": "contract_q"}
 {"text": "What’s the project’s funding status?", "label": "general_q"}
 {"text": "Yo, what’s up, buddy?", "label": "chat"}
+{"text": "Update the contract sum to 65,000 GBP", "label": "value_update"}
+{"text": "Revise clause 5 to reflect new termination conditions", "label": "clause_edit"}
+{"text": "Delete exhibit B from the agreement", "label": "section_edit"}
+{"text": "Change the vendor name from TechSolutions to InnovateCorp", "label": "rename_party"}
+{"text": "What are the confidentiality obligations in clause 7?", "label": "contract_q"}
+{"text": "When is the next contract review meeting?", "label": "general_q"}
+{"text": "Good morning! How can I assist you today?", "label": "chat"}
+{"text": "Reduce the advance payment to 15%", "label": "value_update"}
+{"text": "Add a non-solicitation provision to clause 9", "label": "clause_edit"}
+{"text": "Remove schedule 3 from the document", "label": "section_edit"}
+{"text": "Update licensee to BrightPath Technologies", "label": "rename_party"}
+{"text": "Can you explain the indemnification clause?", "label": "contract_q"}
+{"text": "What's the current version of the contract?", "label": "general_q"}
+{"text": "Hey there! Ready to work on the contract?", "label": "chat"}
+{"text": "Increase the royalty to 12% of net sales", "label": "value_update"}
+{"text": "Modify clause 11 to include GDPR compliance", "label": "clause_edit"}
+{"text": "Strike out appendix C entirely", "label": "section_edit"}
+{"text": "Rename the subcontractor to Precision Builders", "label": "rename_party"}
+{"text": "What's the governing law specified in clause 2?", "label": "contract_q"}
+{"text": "Who are the signatories to this agreement?", "label": "general_q"}
+{"text": "Hi team, let's finalize these changes today", "label": "chat"}
+{"text": "Set the service fee at 8,500 EUR monthly", "label": "value_update"}
+{"text": "Amend clause 14 to clarify delivery acceptance", "label": "clause_edit"}
+{"text": "Omit paragraph 4.2 from the terms", "label": "section_edit"}
+{"text": "Change the beneficiary to Summit Financial", "label": "rename_party"}
+{"text": "Where are the insurance requirements stated?", "label": "contract_q"}
+{"text": "Has the contract been notarized yet?", "label": "general_q"}
+{"text": "Hello! I'm reviewing the contract now", "label": "chat"}
+{"text": "Adjust the penalty amount to 2,500 USD per day", "label": "value_update"}
+{"text": "Insert a force majeure clause after section 8", "label": "clause_edit"}
+{"text": "Delete the entire definitions section", "label": "section_edit"}
+{"text": "Update the lessee name to Metro Rentals LLC", "label": "rename_party"}
+{"text": "What constitutes a material breach under this agreement?", "label": "contract_q"}
+{"text": "Where is the original contract stored?", "label": "general_q"}
+{"text": "Hi there! Need help with contract edits?", "label": "chat"}
+{"text": "Change the bonus structure to 20% of profits", "label": "value_update"}
+{"text": "Revise exhibit A to include the new product list", "label": "clause_edit"}
+{"text": "Remove the non-compete restrictions", "label": "section_edit"}
+{"text": "Rename the guarantor to SafeHarbor Financial", "label": "rename_party"}
+{"text": "How are disputes to be resolved under this contract?", "label": "contract_q"}
+{"text": "What's the process for contract amendments?", "label": "general_q"}
+{"text": "Good afternoon! Let's tackle these changes", "label": "chat"}
+{"text": "Set the minimum purchase at 500 units quarterly", "label": "value_update"}
+{"text": "Add an automatic renewal clause to section 12", "label": "clause_edit"}
+{"text": "Delete the liquidated damages provision", "label": "section_edit"}
+{"text": "Change the franchisor to TopBrand International", "label": "rename_party"}
+{"text": "What are the notice requirements for termination?", "label": "contract_q"}
+{"text": "Who is responsible for contract administration?", "label": "general_q"}
+{"text": "Hey! I've got the latest draft ready", "label": "chat"}
+{"text": "Increase the security deposit to 3 months' rent", "label": "value_update"}
+{"text": "Modify the IP assignment clause to exclude pre-existing IP", "label": "clause_edit"}
+{"text": "Remove the exclusivity terms from section 5", "label": "section_edit"}
+{"text": "Update the consortium name to Global Partners Alliance", "label": "rename_party"}
+{"text": "Where are the payment terms specified?", "label": "contract_q"}
+{"text": "Has the other party signed yet?", "label": "general_q"}
+{"text": "Hi! Just sent you the revised clauses", "label": "chat"}
+{"text": "Reduce the milestone payment to 25,000 CAD", "label": "value_update"}
+{"text": "Clarify the audit rights in clause 17", "label": "clause_edit"}
+{"text": "Delete the entire arbitration section", "label": "section_edit"}
+{"text": "Rename the obligor to Prime Debt Solutions", "label": "rename_party"}
+{"text": "What's the survival period for confidentiality?", "label": "contract_q"}
+{"text": "When does the contract auto-renew?", "label": "general_q"}
+{"text": "Morning! Let me know if you need any clarifications", "label": "chat"}
+{"text": "Set the consulting rate at 150 USD/hour", "label": "value_update"}
+{"text": "Add a most favored nation clause to section 9", "label": "clause_edit"}
+{"text": "Remove the non-disparagement language", "label": "section_edit"}
+{"text": "Change the distributor to Oceanwide Logistics", "label": "rename_party"}
+{"text": "What constitutes a change of control under this agreement?", "label": "contract_q"}
+{"text": "Where can I find the execution copies?", "label": "general_q"}
+{"text": "Hello! The redlined version is ready for review", "label": "chat"}
+{"text": "Adjust the royalty rate to 7.5% of gross", "label": "value_update"}
+{"text": "Update the warranty terms in clause 21", "label": "clause_edit"}
+{"text": "Omit the entire limitation of liability section", "label": "section_edit"}
+{"text": "Rename the mortgagor to First City Properties", "label": "rename_party"}
+{"text": "What are the insurance coverage requirements?", "label": "contract_q"}
+{"text": "Who should receive notices under this contract?", "label": "general_q"}
+{"text": "Hi there! I've flagged some issues for discussion", "label": "chat"}
+{"text": "Increase the early termination fee to 50,000", "label": "value_update"}
+{"text": "Add a sunset clause to the non-compete provisions", "label": "clause_edit"}
+{"text": "Delete the performance guarantees exhibit", "label": "section_edit"}
+{"text": "Update the service provider to CloudScale Tech", "label": "rename_party"}
+{"text": "How are amendments to this contract executed?", "label": "contract_q"}
+{"text": "What's the notice period for termination?", "label": "general_q"}
+{"text": "Good day! Let me know your availability to discuss", "label": "chat"}
+{"text": "Set the licensing fee at 12,500 EUR annually", "label": "value_update"}
+{"text": "Revise the service level agreements in exhibit C", "label": "clause_edit"}
+{"text": "Remove the entire intellectual property section", "label": "section_edit"}
+{"text": "Change the borrower to Capital Growth Inc", "label": "rename_party"}
+{"text": "What are the consequences of late payment?", "label": "contract_q"}
+{"text": "Has the board approved this contract?", "label": "general_q"}
+{"text": "Hello! I'm available for contract questions", "label": "chat"}
+{"text": "Adjust the success fee to 15% of transaction value", "label": "value_update"}
+{"text": "Modify the assignment clause to require consent", "label": "clause_edit"}
+{"text": "Delete the tax indemnification provisions", "label": "section_edit"}
+{"text": "Rename the trustee to Heritage Trust Company", "label": "rename_party"}
+{"text": "Where are the acceptance criteria defined?", "label": "contract_q"}
+{"text": "What's the process for contract extension?", "label": "general_q"}
+{"text": "Hi! The final draft is attached for your review", "label": "chat"}
+{"text": "Increase the retainer to 10,000 monthly", "label": "value_update"}
+{"text": "Add a right of first refusal to clause 25", "label": "clause_edit"}
+{"text": "Remove the entire representations and warranties section", "label": "section_edit"}
+{"text": "Update the insured party to SafeHaven Industries", "label": "rename_party"}
+{"text": "What's the jurisdiction for disputes?", "label": "contract_q"}
+{"text": "Who is the contract administrator?", "label": "general_q"}
+{"text": "Good morning! Let's sync on the contract changes", "label": "chat"}
+{"text": "Set the performance bond at 20% of contract value", "label": "value_update"}
+{"text": "Revise the termination for convenience clause", "label": "clause_edit"}
+{"text": "Delete the entire force majeure section", "label": "section_edit"}
+{"text": "Change the grantor to Innovation Foundation", "label": "rename_party"}
+{"text": "What are the insurance policy requirements?", "label": "contract_q"}
+{"text": "When was the last contract amendment?", "label": "general_q"}
+{"text": "Hello! I've completed the first round of edits", "label": "chat"}
+{"text": "Adjust the hourly rate to 175 USD for senior staff", "label": "value_update"}
+{"text": "Modify the confidentiality clause to include affiliates", "label": "clause_edit"}
+{"text": "Omit the entire indemnification section", "label": "section_edit"}
+{"text": "Rename the lessor to Prime Real Estate Holdings", "label": "rename_party"}
+{"text": "What constitutes a default under this agreement?", "label": "contract_q"}
+{"text": "Where is the master services agreement filed?", "label": "general_q"}
+{"text": "Hi there! Need any clarifications on the changes?", "label": "chat"}
+{"text": "Increase the liquidated damages to 1,000 per day", "label": "value_update"}
+{"text": "Add a change control process to section 15", "label": "clause_edit"}
+{"text": "Remove the entire audit rights section", "label": "section_edit"}
+{"text": "Update the licensor to TechInnovate Solutions", "label": "rename_party"}
+{"text": "What's the term of the non-compete?", "label": "contract_q"}
+{"text": "Who has signing authority for amendments?", "label": "general_q"}
+{"text": "Good afternoon! The redlines are ready for your review", "label": "chat"}
+{"text": "Set the option price at 500,000 for the property", "label": "value_update"}
+{"text": "Revise the entire data protection addendum", "label": "clause_edit"}
+{"text": "Delete the entire severability clause", "label": "section_edit"}
+{"text": "Change the franchisee to Metro Food Services LLC", "label": "rename_party"}
+{"text": "What are the renewal terms?", "label": "contract_q"}
+{"text": "Where can I find the contract templates?", "label": "general_q"}
+{"text": "Hello! Let me know if you need any revisions", "label": "chat"}
+{"text": "Adjust the commission rate to 5% of gross revenue", "label": "value_update"}
+{"text": "Modify the entire limitation of liability language", "label": "clause_edit"}
+{"text": "Remove the entire independent contractor clause", "label": "section_edit"}
+{"text": "Rename the supplier to Global Materials Inc", "label": "rename_party"}
+{"text": "What's the notice period for non-renewal?", "label": "contract_q"}
+{"text": "Who manages contract compliance?", "label": "general_q"}
+{"text": "Hi! I've attached the marked-up agreement", "label": "chat"}
+{"text": "Increase the escrow amount to 50,000", "label": "value_update"}
+{"text": "Add a right to audit clause to section 18", "label": "clause_edit"}
+{"text": "Delete the entire assignment section", "label": "section_edit"}
+{"text": "Update the purchaser to Summit Acquisitions", "label": "rename_party"}
+{"text": "What are the insurance limits required?", "label": "contract_q"}
+{"text": "When was the contract last reviewed?", "label": "general_q"}
+{"text": "Good day! Let's discuss the proposed changes", "label": "chat"}
+{"text": "Set the minimum royalty at 25,000 annually", "label": "value_update"}
+{"text": "Revise the entire dispute resolution section", "label": "clause_edit"}
+{"text": "Remove the entire governing law clause", "label": "section_edit"}
+{"text": "Change the seller to Premier Asset Holdings", "label": "rename_party"}
+{"text": "What's the cure period for breaches?", "label": "contract_q"}
+{"text": "Where are the contract archives maintained?", "label": "general_q"}
+{"text": "Hello! I'm available to discuss the contract", "label": "chat"}
+{"text": "Adjust the success bonus to 20% of target", "label": "value_update"}
+{"text": "Modify the entire termination provisions", "label": "clause_edit"}
+{"text": "Omit the entire waiver of jury trial clause", "label": "section_edit"}
+{"text": "Rename the service recipient to Apex Healthcare", "label": "rename_party"}
+{"text": "What are the subcontracting restrictions?", "label": "contract_q"}
+{"text": "Who is the primary contract contact?", "label": "general_q"}
+{"text": "Hi there! The amendments are ready for signature", "label": "chat"}
+{"text": "Increase the performance incentive to 30%", "label": "value_update"}
+{"text": "Add a material adverse change clause", "label": "clause_edit"}
+{"text": "Delete the entire integration clause", "label": "section_edit"}
+{"text": "Update the guarantor to First Capital Assurance", "label": "rename_party"}
+{"text": "What's the assignment process for this contract?", "label": "contract_q"}
+{"text": "When does the confidentiality period expire?", "label": "general_q"}
+{"text": "Good morning! Let's finalize the contract today", "label": "chat"}
+{"text": "Set the facility fee at 1.5% of the loan amount", "label": "value_update"}
+{"text": "Revise the entire indemnification language", "label": "clause_edit"}
+{"text": "Remove the entire counterparties clause", "label": "section_edit"}
+{"text": "Change the policyholder to SafeGuard Enterprises", "label": "rename_party"}
+{"text": "What are the insurance certificate requirements?", "label": "contract_q"}
+{"text": "Where is the original executed contract stored?", "label": "general_q"}
+{"text": "Hello! I've completed the contract revisions", "label": "chat"}
+{"text": "Adjust the referral fee to 10% of first year revenue", "label": "value_update"}
+{"text": "Modify the entire force majeure provisions", "label": "clause_edit"}
+{"text": "Omit the entire attorneys' fees clause", "label": "section_edit"}
+{"text": "Rename the account debtor to Prime Receivables Co", "label": "rename_party"}
+{"text": "What's the survival period for representations?", "label": "contract_q"}
+{"text": "Who is responsible for contract tracking?", "label": "general_q"}
+{"text": "Hi! Let me know if you need any modifications", "label": "chat"}
+{"text": "Increase the late payment interest to 1.5% monthly", "label": "value_update"}
+{"text": "Add a most favored customer clause", "label": "clause_edit"}
+{"text": "Delete the entire choice of law provision", "label": "section_edit"}
+{"text": "Update the wholesaler to National Distributors Inc", "label": "rename_party"}
+{"text": "What are the audit rights under this contract?", "label": "contract_q"}
+{"text": "When was the contract effective date?", "label": "general_q"}
+{"text": "Good afternoon! The contract is ready for review", "label": "chat"}
+{"text": "Set the break-up fee at 250,000", "label": "value_update"}
+{"text": "Revise the entire insurance requirements section", "label": "clause_edit"}
+{"text": "Remove the entire amendment clause", "label": "section_edit"}
+{"text": "Change the originator to First Source Financial", "label": "rename_party"}
+{"text": "What's the process for contract termination?", "label": "contract_q"}
+{"text": "Where are the contract templates stored?", "label": "general_q"}
+{"text": "Hello! I'm available to discuss the agreement", "label": "chat"}
+{"text": "Adjust the finder's fee to 3% of transaction value", "label": "value_update"}
+{"text": "Modify the entire confidentiality provisions", "label": "clause_edit"}
+{"text": "Omit the entire successor clause", "label": "section_edit"}
+{"text": "Rename the consignee to Global Logistics Partners", "label": "rename_party"}
+{"text": "What are the insurance deductible requirements?", "label": "contract_q"}
+{"text": "Who approves contract deviations?", "label": "general_q"}
+{"text": "Hi there! The final version is ready for signing", "label": "chat"}
+{"text": "Increase the service credit to 5% per day", "label": "value_update"}
+{"text": "Add a right of first negotiation clause", "label": "clause_edit"}
+{"text": "Delete the entire notice provisions", "label": "section_edit"}
+{"text": "Update the policy owner to Secure Holdings LLC", "label": "rename_party"}
+{"text": "What's the governing jurisdiction?", "label": "contract_q"}
+{"text": "When is the next contract anniversary?", "label": "general_q"}
+{"text": "Good morning! Let's discuss the contract terms", "label": "chat"}
+{"text": "Set the conversion price at 10.50 per share", "label": "value_update"}
+{"text": "Revise the entire representations section", "label": "clause_edit"}
+{"text": "Remove the entire waiver provisions", "label": "section_edit"}
+{"text": "Change the payor to Premium Payment Services", "label": "rename_party"}
+{"text": "What are the termination for convenience terms?", "label": "contract_q"}
+{"text": "Where are the contract compliance records kept?", "label": "general_q"}
+{"text": "Hello! I've flagged some key issues for discussion", "label": "chat"}
+{"text": "Adjust the management fee to 2% of AUM", "label": "value_update"}
+{"text": "Modify the entire insurance clause", "label": "clause_edit"}
+{"text": "Omit the entire third party beneficiary clause", "label": "section_edit"}
+{"text": "Rename the obligee to First Lien Holdings", "label": "rename_party"}
+{"text": "What's the cure period for payment defaults?", "label": "contract_q"}
+{"text": "Who is the contract owner?", "label": "general_q"}
+{"text": "Hi! The revised agreement is attached", "label": "chat"}
+{"text": "Increase the performance bond to 30%", "label": "value_update"}
+{"text": "Add a step-in rights clause", "label": "clause_edit"}
+{"text": "Delete the entire assignment language", "label": "section_edit"}
+{"text": "Update the mortgagor to Capital Property Group", "label": "rename_party"}
+{"text": "What are the liquidated damages provisions?", "label": "contract_q"}
+{"text": "When was the last contract review?", "label": "general_q"}
+{"text": "Good day! Let me know your thoughts on the changes", "label": "chat"}
+{"text": "Set the option exercise price at 15.00", "label": "value_update"}
+{"text": "Revise the entire termination section", "label": "clause_edit"}
+{"text": "Remove the entire severability language", "label": "section_edit"}
+{"text": "Change the annuitant to Retirement Income Solutions", "label": "rename_party"}
+{"text": "What's the notice period for material changes?", "label": "contract_q"}
+{"text": "Where is the contract repository?", "label": "general_q"}
+{"text": "Hello! I'm ready to discuss the contract revisions", "label": "chat"}
+{"text": "Adjust the success fee to 25% of savings", "label": "value_update"}
+{"text": "Modify the entire indemnity provisions", "label": "clause_edit"}
+{"text": "Omit the entire governing law section", "label": "section_edit"}
+{"text": "Rename the grantee to Community Development Fund", "label": "rename_party"}
+{"text": "What are the insurance policy limits?", "label": "contract_q"}
+{"text": "Who manages contract renewals?", "label": "general_q"}
+{"text": "Hi there! The contract is ready for your review", "label": "chat"}
+{"text": "Increase the late fee to 5% of overdue amount", "label": "value_update"}
+{"text": "Add a change of control clause", "label": "clause_edit"}
+{"text": "Delete the entire counterparty provisions", "label": "section_edit"}
+{"text": "Update the secured party to Priority Lenders Inc", "label": "rename_party"}
+{"text": "What's the arbitration process?", "label": "contract_q"}
+{"text": "When is the contract expiration date?", "label": "general_q"}
+{"text": "Good afternoon! Let's finalize the agreement", "label": "chat"}
+{"text": "Set the facility limit at 5 million", "label": "value_update"}
+{"text": "Revise the entire warranty section", "label": "clause_edit"}
+{"text": "Remove the entire integration provisions", "label": "section_edit"}
+{"text": "Change the insured to Comprehensive Coverage LLC", "label": "rename_party"}
+{"text": "What are the renewal notice requirements?", "label": "contract_q"}
+{"text": "Where are the signed contracts archived?", "label": "general_q"}
+{"text": "Hello! I've completed the requested changes", "label": "chat"}
+{"text": "Adjust the processing fee to 3% of transaction", "label": "value_update"}
+{"text": "Modify the entire audit rights language", "label": "clause_edit"}
+{"text": "Omit the entire jury waiver clause", "label": "section_edit"}
+{"text": "Rename the beneficiary to Family Trust Associates", "label": "rename_party"}
+{"text": "What's the survival period for indemnification?", "label": "contract_q"}
+{"text": "Who is responsible for contract compliance?", "label": "general_q"}
+{"text": "Hi! The final draft is ready for execution", "label": "chat"}
+{"text": "Increase the commitment fee to 1%", "label": "value_update"}
+{"text": "Add a materiality qualifier to representations", "label": "clause_edit"}
+{"text": "Delete the entire choice of forum clause", "label": "section_edit"}
+{"text": "Update the contractor to Elite Construction Group", "label": "rename_party"}
+{"text": "What are the insurance endorsement requirements?", "label": "contract_q"}
+{"text": "When was the contract last amended?", "label": "general_q"}
+{"text": "Good morning! Let's discuss the contract terms", "label": "chat"}
+{"text": "Set the origination fee at 2 points", "label": "value_update"}
+{"text": "Revise the entire limitation of liability section", "label": "clause_edit"}
+{"text": "Remove the entire attorneys' fees provisions", "label": "section_edit"}
+{"text": "Change the payee to Reliable Receivables Corp", "label": "rename_party"}
+{"text": "What's the notice period for termination?", "label": "contract_q"}
+{"text": "Where are the contract templates located?", "label": "general_q"}
+{"text": "Hello! I'm available to answer any questions", "label": "chat"}
+{"text": "Adjust the royalty payment to 8% of net", "label": "value_update"}
+{"text": "Modify the entire dispute resolution provisions", "label": "clause_edit"}
+{"text": "Omit the entire successor and assigns clause", "label": "section_edit"}
+{"text": "Rename the issuer to BlueChip Investments", "label": "rename_party"}
+{"text": "What are the subcontracting approval requirements?", "label": "contract_q"}
+{"text": "Who manages contract version control?", "label": "general_q"}
+{"text": "Hi there! The amendments are ready for review", "label": "chat"}
+{"text": "Increase the early repayment fee to 3%", "label": "value_update"}
+{"text": "Add a right of first offer clause", "label": "clause_edit"}
+{"text": "Delete the entire waiver of claims language", "label": "section_edit"}
+{"text": "Update the lender to Prime Capital Funding", "label": "rename_party"}
+{"text": "What's the mediation process for disputes?", "label": "contract_q"}
+{"text": "When is the next contract renewal date?", "label": "general_q"}
+{"text": "Good day! Let's discuss the contract changes", "label": "chat"}
+{"text": "Set the facility fee at 0.50% annually", "label": "value_update"}
+{"text": "Revise the entire insurance section", "label": "clause_edit"}
+{"text": "Remove the entire third party rights clause", "label": "section_edit"}
+{"text": "Change the borrower to Acme Manufacturing Inc", "label": "rename_party"}
+{"text": "What are the cure provisions for breaches?", "label": "contract_q"}
+{"text": "Where are the executed contracts stored?", "label": "general_q"}
+{"text": "Hello! I've completed the contract revisions", "label": "chat"}
+{"text": "Adjust the success bonus to 15% of target", "label": "value_update"}
+{"text": "Modify the entire termination for cause language", "label": "clause_edit"}
+{"text": "Omit the entire governing law provisions", "label": "section_edit"}
+{"text": "Rename the indemnitee to SafeHarbor Insurance", "label": "rename_party"}
+{"text": "What's the notice period for non-renewal?", "label": "contract_q"}
+{"text": "Who is the contract administrator?", "label": "general_q"}
+{"text": "Hi! The final agreement is ready for signature", "label": "chat"}
+{"text": "Increase the late charge to 10% of payment", "label": "value_update"}
+{"text": "Add a most favored nation pricing clause", "label": "clause_edit"}
+{"text": "Delete the entire assignment provisions", "label": "section_edit"}
+{"text": "Update the trustee to Heritage Trust Services", "label": "rename_party"}
+{"text": "What are the insurance certificate requirements?", "label": "contract_q"}
+{"text": "When was the contract last reviewed?", "label": "general_q"}
+{"text": "Good afternoon! Let's finalize the agreement", "label": "chat"}
+{"text": "Set the underwriting fee at 1.75%", "label": "value_update"}
+{"text": "Revise the entire indemnification section", "label": "clause_edit"}
+{"text": "Remove the entire integration clause", "label": "section_edit"}
+{"text": "Change the policyholder to Comprehensive Coverage Inc", "label": "rename_party"}
+{"text": "What's the arbitration venue?", "label": "contract_q"}
+{"text": "Where are the contract archives maintained?", "label": "general_q"}
+{"text": "Hello! I'm available to discuss the changes", "label": "chat"}
+{"text": "Adjust the referral commission to 12%", "label": "value_update"}
+{"text": "Modify the entire force majeure language", "label": "clause_edit"}
+{"text": "Omit the entire jury trial waiver", "label": "section_edit"}
+{"text": "Rename the account holder to Prime Financial Services", "label": "rename_party"}
+{"text": "What's the survival period for warranties?", "label": "contract_q"}
+{"text": "Who is responsible for contract tracking?", "label": "general_q"}
+{"text": "Hi there! The redlined version is attached", "label": "chat"}
+{"text": "Increase the service fee to 200 hourly", "label": "value_update"}
+{"text": "Add a right of first refusal clause", "label": "clause_edit"}
+{"text": "Delete the entire choice of law provisions", "label": "section_edit"}
+{"text": "Update the distributor to National Wholesale Inc", "label": "rename_party"}
+{"text": "What are the audit rights under the contract?", "label": "contract_q"}
+{"text": "When was the contract effective date?", "label": "general_q"}
+{"text": "Good morning! The contract is ready for review", "label": "chat"}
+{"text": "Set the break fee at 300,000", "label": "value_update"}
+{"text": "Revise the entire insurance requirements", "label": "clause_edit"}
+{"text": "Remove the entire amendment provisions", "label": "section_edit"}
+{"text": "Change the originator to First Source Capital", "label": "rename_party"}
+{"text": "What's the process for termination?", "label": "contract_q"}
+{"text": "Where are the contract templates stored?", "label": "general_q"}
+{"text": "Hello! I'm available to discuss the agreement", "label": "chat"}
+{"text": "Adjust the finder's fee to 4% of transaction", "label": "value_update"}
+{"text": "Modify the entire confidentiality section", "label": "clause_edit"}
+{"text": "Omit the entire successor clause", "label": "section_edit"}
+{"text": "Rename the consignor to Global Shipping Partners", "label": "rename_party"}
+{"text": "What are the insurance deductible amounts?", "label": "contract_q"}
+{"text": "Who approves contract modifications?", "label": "general_q"}
+{"text": "Hi! The final version is ready for signing", "label": "chat"}
+{"text": "Increase the service credit to 10% daily", "label": "value_update"}
+{"text": "Add a right of first negotiation provision", "label": "clause_edit"}
+{"text": "Delete the entire notice requirements", "label": "section_edit"}
+{"text": "Update the policy owner to Secure Holdings Inc", "label": "rename_party"}
+{"text": "What's the governing law?", "label": "contract_q"}
+{"text": "When is the next contract anniversary?", "label": "general_q"}
+{"text": "Good day! Let's discuss the contract terms", "label": "chat"}
+{"text": "Set the conversion price at 12.00 per share", "label": "value_update"}
+{"text": "Revise the entire representations and warranties", "label": "clause_edit"}
+{"text": "Remove the entire waiver language", "label": "section_edit"}
+{"text": "Change the payee to Premium Payment Solutions", "label": "rename_party"}
+{"text": "What are the termination for convenience terms?", "label": "contract_q"}
+{"text": "Where are the contract compliance records?", "label": "general_q"}
+{"text": "Hello! I've flagged some issues for discussion", "label": "chat"}
+{"text": "Adjust the management fee to 1.5% quarterly", "label": "value_update"}
+{"text": "Modify the entire insurance provisions", "label": "clause_edit"}
+{"text": "Omit the entire third party rights clause", "label": "section_edit"}
+{"text": "Rename the obligor to First Lien Capital", "label": "rename_party"}
+{"text": "What's the cure period for payment defaults?", "label": "contract_q"}
+{"text": "Who is the contract owner?", "label": "general_q"}
+{"text": "Hi! The revised agreement is attached", "label": "chat"}
+{"text": "Increase the performance bond to 25%", "label": "value_update"}
+{"text": "Add a step-in rights provision", "label": "clause_edit"}
+{"text": "Delete the entire assignment clause", "label": "section_edit"}
+{"text": "Update the mortgagor to Capital Real Estate Group", "label": "rename_party"}
+{"text": "What are the liquidated damages terms?", "label": "contract_q"}
+{"text": "When was the last contract review?", "label": "general_q"}
+{"text": "Good afternoon! Let me know your thoughts", "label": "chat"}
+{"text": "Set the option price at 18.00 per share", "label": "value_update"}
+{"text": "Revise the entire termination provisions", "label": "clause_edit"}
+{"text": "Remove the entire severability clause", "label": "section_edit"}
+{"text": "Change the annuitant to Retirement Income Partners", "label": "rename_party"}
+{"text": "What's the notice period for changes?", "label": "contract_q"}
+{"text": "Where is the contract repository?", "label": "general_q"}
+{"text": "Hello! I'm ready to discuss the revisions", "label": "chat"}
+{"text": "Adjust the success fee to 20% of savings", "label": "value_update"}
+{"text": "Modify the entire indemnification language", "label": "clause_edit"}
+{"text": "Omit the entire governing law section", "label": "section_edit"}
+{"text": "Rename the grantee to Community Development Corp", "label": "rename_party"}
+{"text": "What are the insurance policy requirements?", "label": "contract_q"}
+{"text": "Who manages contract renewals?", "label": "general_q"}
+{"text": "Hi there! The contract is ready for review", "label": "chat"}
+{"text": "Increase the late fee to 3% monthly", "label": "value_update"}
+{"text": "Add a change of control provision", "label": "clause_edit"}
+{"text": "Delete the entire counterparty clause", "label": "section_edit"}
+{"text": "Update the secured party to Priority Lenders LLC", "label": "rename_party"}
+{"text": "What's the arbitration procedure?", "label": "contract_q"}
+{"text": "When is the contract expiration?", "label": "general_q"}
+{"text": "Good morning! Let's finalize the agreement", "label": "chat"}
+{"text": "Set the facility limit at 10 million", "label": "value_update"}
